@@ -5,14 +5,14 @@ from third_party import psutil
 
 
 def blind_search(matrix, gui=None):
-    # start_time = time.time()  # Bắt đầu đo thời gian
+    start_time = time.time()  # Bắt đầu đo thời gian
     initial_memory = psutil.virtual_memory().used / (1024*1024)
     solved_matrix = dfs_solve(matrix, gui)
     final_memory = psutil.virtual_memory().used / (1024*1024)
     memory_consumption = (final_memory - initial_memory) 
-    # end_time = time.time()  # Kết thúc đo thời gian
-    # elapsed_time = end_time - start_time
-    #print("DFS Execution Time:", elapsed_time, "seconds")
+    end_time = time.time()  # Kết thúc đo thời gian
+    elapsed_time = end_time - start_time
+    print("DFS Execution Time:", elapsed_time, "seconds")
     print("DFS Memory Consumption::", abs(memory_consumption), "MB")
 
     if gui:
@@ -20,7 +20,7 @@ def blind_search(matrix, gui=None):
     return solved_matrix
 
 def dfs_solve(matrix, gui):
-    time_sleep = 0.2
+    time_sleep = 0
     if is_solution(matrix):
         return matrix
     row, col = get_first_box(matrix)

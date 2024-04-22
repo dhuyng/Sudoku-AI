@@ -26,7 +26,7 @@ class SudokuMatrix(tk.Entry):
         value = self.var.get()
         if value.isdigit() and 0 < int(value) < 10:
             self.var_value = value
-            self.config(fg="blue")  # Thiết lập màu chữ thành màu xanh dương
+            self.config(fg="blue")  
         else:
             self.var.set('')
 
@@ -154,10 +154,11 @@ class Sudoku():
         self.set_SudokuMatrix_GUI(self.matrix_values) 
         self.reset_matrix_colour() 
     """
+    
 
     
-    
-    def new_puzzle(self):  # Hàm tạo bảng mới
+   
+    def new_puzzle(self):  
        
         self.testcase_num = (self.testcase_num % 20) + 1
 
@@ -176,7 +177,7 @@ class Sudoku():
         self.matrix_values = matrix_values
         self.set_SudokuMatrix_GUI(matrix_values)
         self.reset_matrix_colour()
-        
+  
 
 
 
