@@ -6,17 +6,20 @@ public class MenuGame : MonoBehaviour
 {
     public void Easy()
     {
-        SceneManager.LoadScene(1);
+        PlayerPrefs.SetInt("LevelDifficulty", 1);
+        SceneManager.LoadScene(2);
     }
 
     public void Medium()
     {
-        SceneManager.LoadScene(1);
+        PlayerPrefs.SetInt("LevelDifficulty", 2);
+        SceneManager.LoadScene(2);
     }
 
      public void Hard()
-    {
-        SceneManager.LoadScene(1);
+    {   
+        PlayerPrefs.SetInt("LevelDifficulty", 3);
+        SceneManager.LoadScene(2);
     }
 
    

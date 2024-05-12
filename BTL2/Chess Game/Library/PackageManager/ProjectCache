@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Duc Huy/Downloads/Chess Game _ BTL2/Chess Game _ BTL2/Packages/manifest.json
+    m_FilePath: C:/Users/ADMIN/Desktop/Sudoku-AI-1/BTL2/Chess Game/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638502253002476563
-    m_Hash: 4108879749
+      ticks: 638502595662029894
+    m_Hash: 674581814
   m_LockFileStatus:
-    m_FilePath: C:/Users/Duc Huy/Downloads/Chess Game _ BTL2/Chess Game _ BTL2/Packages/packages-lock.json
+    m_FilePath: C:/Users/ADMIN/Desktop/Sudoku-AI-1/BTL2/Chess Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638502253085625122
-    m_Hash: 2379887837
+      ticks: 638502595896077488
+    m_Hash: 2630475982
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Duc Huy/Downloads/Chess Game _ BTL2/Chess Game _ BTL2/Packages
-m_EditorVersion: 2022.3.20f1 (61c2feb0970d)
+m_ProjectPath: C:/Users/ADMIN/Desktop/Sudoku-AI-1/BTL2/Chess Game/Packages
+m_EditorVersion: 2022.3.27f1 (73effa14754f)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -85,7 +85,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -158,7 +158,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.4.2
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ads@4.4.2
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ads@4.4.2
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement Legacy
@@ -275,7 +275,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.5
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ai.navigation@1.1.5
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ai.navigation@1.1.5
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -346,7 +346,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.8.1
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.analytics@3.8.1
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.analytics@3.8.1
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -421,7 +421,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.12.2
+    version: 1.12.5
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -457,12 +457,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.collab-proxy@2.2.0
+- packageId: com.unity.collab-proxy@2.3.1
   testable: 0
   isDirectDependency: 1
-  version: 2.2.0
+  version: 2.3.1
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.collab-proxy@2.2.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.collab-proxy@2.3.1
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -551,9 +551,8 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.1
     compatible:
-    - 2.2.0
     - 2.3.1
-    recommended: 2.2.0
+    recommended: 2.3.1
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -582,28 +581,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638326189440000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.2/manual/index.html
+  datePublishedTicks: 638448201880000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.3/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 33c8fba1793946be3c73f738edf70db0b5546afd
+    revision: 613362ccb4468f55ee42e0a35809fb9a61f3f8f1
     path: 
   unityLifecycle:
-    version: 2.2.0
+    version: 2.3.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.27
+- packageId: com.unity.ide.rider@3.0.28
   testable: 0
   isDirectDependency: 1
-  version: 3.0.27
+  version: 3.0.28
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ide.rider@3.0.27
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ide.rider@3.0.28
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -663,7 +662,6 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     compatible:
-    - 3.0.27
     - 3.0.28
     recommended: 3.0.28
     deprecated: []
@@ -684,16 +682,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638373878680000000
+  datePublishedTicks: 638447139880000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: 1d471c19a7f21834ae5b8d0358fd6f9b242c1ee8
+    revision: f4880c72477e9bbd7321c0dbda4428fa10d916df
     path: 
   unityLifecycle:
-    version: 3.0.27
+    version: 3.0.28
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -705,7 +703,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.22
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -794,7 +792,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -857,12 +855,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.purchasing@4.9.3
+- packageId: com.unity.purchasing@4.11.0
   testable: 0
   isDirectDependency: 1
-  version: 4.9.3
+  version: 4.11.0
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.purchasing@4.9.3
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.purchasing@4.11.0
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -957,16 +955,11 @@ m_ResolvedPackages:
     - 4.10.0
     - 4.11.0
     compatible:
-    - 4.9.3
-    - 4.9.4
-    - 4.10.0
     - 4.11.0
-    recommended: 4.9.4
+    recommended: 4.11.0
     deprecated: []
   dependencies:
   - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.unityanalytics
     version: 1.0.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -975,7 +968,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.8.1
+    version: 1.8.2
   resolvedDependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -983,8 +976,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-  - name: com.unity.modules.unityanalytics
-    version: 1.0.0
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -992,7 +983,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.12.2
+    version: 1.12.5
   - name: com.unity.nuget.newtonsoft-json
     version: 3.2.1
   keywords:
@@ -1009,18 +1000,18 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638223389530000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@4.9/manual/index.html
+  datePublishedTicks: 638457672620000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.purchasing@4.11/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 42718bbbc4b238be117b2c0c72c843152dffec63
+    revision: d048512094268963253b336dd8eba44548759d38
     path: 
   unityLifecycle:
-    version: 4.9.3
+    version: 4.11.0
     nextVersion: 
-    recommendedVersion: 
+    recommendedVersion: 4.11.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -1030,7 +1021,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1167,7 +1158,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1358,7 +1349,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.6
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.timeline@1.7.6
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1525,7 +1516,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1597,7 +1588,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.10
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -1699,7 +1690,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1754,7 +1745,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1808,7 +1799,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1863,7 +1854,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1918,7 +1909,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1973,7 +1964,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2032,7 +2023,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2095,7 +2086,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2151,7 +2142,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2206,7 +2197,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2261,7 +2252,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2316,7 +2307,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2371,7 +2362,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2426,7 +2417,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2485,7 +2476,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2540,7 +2531,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2603,7 +2594,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2661,7 +2652,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2716,7 +2707,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2783,7 +2774,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2838,7 +2829,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2901,7 +2892,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2956,7 +2947,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3019,7 +3010,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3082,7 +3073,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3145,7 +3136,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3224,7 +3215,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3283,7 +3274,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3350,7 +3341,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3419,7 +3410,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3474,7 +3465,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3541,7 +3532,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3600,7 +3591,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3666,12 +3657,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.services.core@1.12.2
+- packageId: com.unity.services.core@1.12.5
   testable: 0
   isDirectDependency: 0
-  version: 1.12.2
+  version: 1.12.5
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.services.core@1.12.2
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.services.core@1.12.5
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3720,8 +3711,6 @@ m_ResolvedPackages:
     - 1.12.4
     - 1.12.5
     compatible:
-    - 1.12.2
-    - 1.12.4
     - 1.12.5
     recommended: 1.12.5
     deprecated: []
@@ -3750,18 +3739,18 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638406543980000000
+  datePublishedTicks: 638481576230000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.12/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 367ed2daa930cca63eb477216155002adc2ee591
+    revision: 85f4cc67cb1ec043a92990cbe34002037e9948e4
     path: 
   unityLifecycle:
-    version: 1.12.2
+    version: 1.12.5
     nextVersion: 
-    recommendedVersion: 
+    recommendedVersion: 1.12.4
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -3771,7 +3760,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.0
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.services.analytics@5.0.0
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.services.analytics@5.0.0
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -3821,7 +3810,7 @@ m_ResolvedPackages:
     - 5.0.2
     - 5.1.0
     - 5.1.1
-    recommended: 5.0.2
+    recommended: 5.1.1
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -3840,7 +3829,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.12.2
+    version: 1.12.5
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -3869,7 +3858,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 5.0.0
     nextVersion: 
-    recommendedVersion: 
+    recommendedVersion: 5.1.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -3879,7 +3868,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.1
   source: 1
-  resolvedPath: C:\Users\Duc Huy\Downloads\Chess Game _ BTL2\Chess Game _ BTL2\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
+  resolvedPath: C:\Users\ADMIN\Desktop\Sudoku-AI-1\BTL2\Chess Game\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json

@@ -4,7 +4,23 @@ using System.Collections.Generic;
 
 public class AlphaBeta
 {
-    int maxDepth = 4;
+    int maxDepth;
+    public void InitializeDepth()
+    {
+        int level = PlayerPrefs.GetInt("LevelDifficulty", 1); // Lấy mức độ với giá trị mặc định là 1 nếu chưa set
+        switch (level)
+        {
+            case 1:
+                maxDepth = 1;
+                break;
+            case 2:
+                maxDepth = 3;
+                break;
+            case 3:
+                maxDepth = 4;
+                break;
+        }
+    }
 
     List<Move> _moves = new List<Move>();
     List<Tile> _tilesWithPieces = new List<Tile>();
