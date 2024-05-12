@@ -137,24 +137,8 @@ public class MoveFactory
         _GenerateMove(9, new Vector2(1, -1));
         _GenerateMove(9, new Vector2(-1, 1));
     }
-
     bool IsPositionInCheck(Vector2 position, Piece.playerColor color)
     {
-        // for (int x = 0; x < 8; ++x)
-        // {
-        //     for (int y = 0; y < 8; ++y)
-        //     {
-        //         Tile tile = _board.GetTileFromBoard(new Vector2(x, y));
-        //         if (tile.CurrentPiece && tile.CurrentPiece.Player != color && tile.CurrentPiece.Type != Piece.pieceType.KING)
-        //         {
-        //             Debug.Assert(tile.CurrentPiece.Player != Piece.playerColor.UNKNOWN);
-        //             foreach (Move move in tile.CurrentPiece.factory.GetMoves(tile.CurrentPiece, tile.Position))
-        //                 if (move.secondPosition.Position == position)
-        //                     return true;
-        //         }
-        //     }
-        // }
-
         return false;
     }
 
@@ -187,7 +171,6 @@ public class MoveFactory
             }
         }
     }
-
     void _GetKingMoves()
     {
         GenerateCastleMove(_piece);
